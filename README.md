@@ -1,18 +1,31 @@
-## Getting Started
+# Desafio contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### O desafio pede para digitar dois numeros caso o segundo numero for menor que o primeiro, o programa apresentara o seguinte alerta:
 
-## Folder Structure
+ " O segundo numero precisa ser maior que o primeiro " 
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![segundoN](https://user-images.githubusercontent.com/97926394/183537183-579d9374-d802-4fb7-950a-a85d77d22903.PNG)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+### Caso a pessoa digite uma  letra, ponto , virgula  ou qualquer caracter que não seja numero o  programa apresentara a seguintes menssagens:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+![segundoUsandoB](https://user-images.githubusercontent.com/97926394/183537500-a9766cc5-bcd4-4867-a8bc-da82788746b4.PNG)
+
+
+
+![ponto](https://user-images.githubusercontent.com/97926394/183537581-890be4ac-df73-466c-bf1f-ad2105cae9f0.PNG)
+
+
+
+
+##  Correto 
+
+### Tudo ocorrendo bem o programa apresentara o resultado da subtração entre os dois numeros digitados, e contara de 1 ..... até o resultado dessa subtração.
+
+
+
+![primeiro](https://user-images.githubusercontent.com/97926394/183538417-97d3256c-5262-440a-a0a7-4feb7ae17e12.PNG)
