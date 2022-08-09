@@ -1,7 +1,14 @@
-# Desafio contador
+# Desafio contador 
 
-### O desafio pede para digitar dois numeros caso o segundo numero for menor que o primeiro, o programa apresentara o seguinte alerta:
 
+
+### Projeto usando Try e catch para tratamento de exceções
+
+
+
+#### O desafio pede para digitar dois numeros caso o segundo numero for menor que o primeiro, o programa apresentara o seguinte alerta:
+
+ 
  " O segundo numero precisa ser maior que o primeiro " 
 
 
